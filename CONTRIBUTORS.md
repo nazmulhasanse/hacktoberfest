@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Nazmul Hasan](https://github.com/nazmulhasanse)
+- Place: Dhaka, Bangladesh
+- Bio: Software Engineer
+- Github: [Nazmul Hasan](https://github.com/nazmulhasanse)
